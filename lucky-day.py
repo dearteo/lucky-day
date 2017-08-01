@@ -27,3 +27,9 @@ while True:
     else: print ("\r\nThank you for using Lucky Day. ")
     break 
 
+## made by Matteo Zappia aka Dear Teo. ##
+    ########## Lucky Day! ##########
+    
+    
+    
+    
